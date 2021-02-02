@@ -1,2 +1,0 @@
-# -Analysis
-For programming class.
